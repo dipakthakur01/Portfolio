@@ -68,7 +68,7 @@ const home: Home = {
       I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At {" Megajobnepal"}
       <Logo
         dark
-        icon="/trademarks/wordmark-dark.svg"
+        icon="/trademarks/wordmark-dark.png"
         style={{ display: "inline-flex", top: "0.25em", marginLeft: "-0.25em" }}
       />
       where I create dynamic and user-friendly applications that make a real impact.
@@ -98,9 +98,11 @@ const about: About = {
     title: "Introduction",
     description: (
       <>
-        Thakur is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At MegaJobNepal, I contribute to designing and developing scalable web applications that prioritize performance, usability, and clean architecture.
+
+My expertise covers both front-end and back-end development, including building responsive interfaces, integrating APIs, and managing databases. I am committed to writing maintainable code and applying best practices that enhance efficiency and user experience.
+
+I am continuously improving my skills, exploring new technologies, and aiming to deliver solutions that create value for organizations and end users.
       </>
     ),
   },
