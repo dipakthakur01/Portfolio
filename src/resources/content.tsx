@@ -126,7 +126,7 @@ const about: About = {
           // optional: leave the array empty if you don't want to display images
           {
             src: "/images/projects/project-01/cover-01.jpg",
-            alt: "Once UI Project",
+            alt: "My Project Project",
             width: 16,
             height: 9,
           },
@@ -171,7 +171,7 @@ const about: About = {
       {
         title: "Figma",
         description: (
-          <>Able to prototype in Figma with Once UI with unnatural speed.</>
+          <>Able to prototype in Figma with My Project with unnatural speed.</>
         ),
         tags: [
           {
@@ -198,7 +198,7 @@ const about: About = {
       {
         title: "Next.js",
         description: (
-          <>Building next gen apps with Next.js + Once UI + Supabase.</>
+          <>Building next gen apps with Next.js + My Project + Supabase.</>
         ),
         tags: [
           {
