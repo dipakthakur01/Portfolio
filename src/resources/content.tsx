@@ -65,13 +65,13 @@ const home: Home = {
   },
   subline: (
     <>
-      I'm Dipak, a design engineer at{"Megajobnepal"}
+      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At {" Megajobnepal"}
       <Logo
         dark
         icon="/trademarks/wordmark-dark.svg"
         style={{ display: "inline-flex", top: "0.25em", marginLeft: "-0.25em" }}
       />
-      , where I craft intuitive
+      where I create dynamic and user-friendly applications that make a real impact.
       <br /> user experiences. After hours, I build my own projects.
     </>
   ),
