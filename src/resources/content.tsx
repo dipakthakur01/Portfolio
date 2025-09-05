@@ -111,12 +111,12 @@ I am continuously improving my skills, exploring new technologies, and aiming to
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
+        company: "MegaJobNepal",
+        timeframe: "2024 - Present",
         role: "Full Stack Developer",
         achievements: [
           <>
-            Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
+            Redesigned the UI/UX for the Megajobnepal platform, resulting in a 20% increase in user
             engagement and 30% faster load times.
           </>,
           <>
