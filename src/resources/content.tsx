@@ -5,7 +5,7 @@ const person: Person = {
   firstName: "Dipak",
   lastName: "Thakur",
   name: `Dipak Thakur`,
-  role: "Design Engineer",
+  role: "Full Stack Developer",
   avatar:"/images/avatar.jpg", // 1:1 ratio, at least 512x512px
   email: "rustamchupa473@gmail.com",
   location: "Asia/Kathmandu", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
@@ -65,13 +65,13 @@ const home: Home = {
   },
   subline: (
     <>
-      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At {" Megajobnepal"}
+      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At {" "}
       <Logo
         dark
         icon="/trademarks/wordmark-dark.png"
         style={{ display: "inline-flex", top: "0.25em", marginLeft: "-0.25em" }}
       />
-      where I create dynamic and user-friendly applications that make a real impact.
+       , where I create dynamic and user-friendly applications that make a real impact.
       <br /> user experiences. After hours, I build my own projects.
     </>
   ),
@@ -113,7 +113,7 @@ I am continuously improving my skills, exploring new technologies, and aiming to
       {
         company: "FLY",
         timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        role: "Full Stack Developer",
         achievements: [
           <>
             Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
@@ -135,17 +135,17 @@ I am continuously improving my skills, exploring new technologies, and aiming to
         ],
       },
       {
-        company: "Creativ3",
-        timeframe: "2018 - 2022",
-        role: "Lead Designer",
+        company: "MegaJobNepal",
+        timeframe: "2024 - 2025",
+        role: "Full Stack Developer",
         achievements: [
           <>
-            Developed a design system that unified the brand across multiple platforms, improving
-            design consistency by 40%.
+            Built and optimized full-stack web applications using the MERN stack, improving overall
+            system performance and user experience.
           </>,
           <>
-            Led a cross-functional team to launch a new product line, contributing to a 15% increase
-            in overall company revenue.
+           Designed and implemented reusable front-end components and back-end APIs, reducing
+            development time for new features by 30%.
           </>,
         ],
         images: [],
@@ -157,8 +157,8 @@ I am continuously improving my skills, exploring new technologies, and aiming to
     title: "Studies",
     institutions: [
       {
-        name: "University of Jakarta",
-        description: <>Studied software engineering.</>,
+        name: "Asia Pacific University",
+        description: <>BSc.IT</>,
       },
       {
         name: "Build the Future",
