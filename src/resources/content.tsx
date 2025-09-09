@@ -65,13 +65,13 @@ const home: Home = {
   },
   subline: (
     <>
-      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At  {" "}
+      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At {" "}
       <Logo
         dark
-        icon="/trademarks/wordmark-dark.png"
+        icon=" /trademarks/wordmark-dark.png"
         style={{ display: "inline-flex", top: "0.25em", marginLeft: "-0.25em" }}
       />
-        , where I create dynamic and user-friendly applications that make a real impact.
+           , where I create dynamic and user-friendly applications that make a real impact.
       <br /> After hours, I build my own projects.
     </>
   ),
