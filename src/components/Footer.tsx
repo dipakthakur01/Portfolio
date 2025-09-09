@@ -26,7 +26,7 @@ export const Footer = () => {
           <Text paddingX="4">{person.name}</Text>
           <Text onBackground="neutral-weak">
             {/* Usage of this template requires attribution. Please don't remove the link to My Project unless you have a Pro license. */}
-            / Build your portfolio with{"Dipak Thakur's"}{" github"}
+            / Build your portfolio with{" Dipak Thakur's"}{" github"}
             <SmartLink href="https://github.com/dipakthakur01"> Thakur Sahab</SmartLink>
           </Text>
         </Text>

@@ -34,7 +34,7 @@ const social: Social = [
   {
     name: "Threads",
     icon: "threads",
-    link: "https://www.threads.com/@once_ui",
+    link: "https://www.threads.com/@thakursahab01",
   },
   {
     name: "Email",
@@ -65,14 +65,14 @@ const home: Home = {
   },
   subline: (
     <>
-      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At {" "}
+      I am Dipak Thakur, a Full Stack Developer with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). At  {" "}
       <Logo
         dark
         icon="/trademarks/wordmark-dark.png"
         style={{ display: "inline-flex", top: "0.25em", marginLeft: "-0.25em" }}
       />
-       , where I create dynamic and user-friendly applications that make a real impact.
-      <br /> user experiences. After hours, I build my own projects.
+        , where I create dynamic and user-friendly applications that make a real impact.
+      <br /> After hours, I build my own projects.
     </>
   ),
 };
@@ -129,8 +129,8 @@ I am continuously improving my skills, exploring new technologies, and aiming to
           {
             src: "/images/projects/project-01/cover-01.jpg",
             alt: "My Project Project",
-            width: 16,
-            height: 9,
+            width: 10,
+            height: 6,
           },
         ],
       },
@@ -186,14 +186,14 @@ I am continuously improving my skills, exploring new technologies, and aiming to
           {
             src: "/images/projects/project-01/cover-02.jpg",
             alt: "Project image",
-            width: 16,
-            height: 9,
+            width: 10,
+            height: 6,
           },
           {
             src: "/images/projects/project-01/cover-03.jpg",
             alt: "Project image",
-            width: 16,
-            height: 9,
+            width: 10,
+            height: 6,
           },
         ],
       },
@@ -221,8 +221,8 @@ I am continuously improving my skills, exploring new technologies, and aiming to
           {
             src: "/images/projects/project-01/cover-04.jpg",
             alt: "Project image",
-            width: 16,
-            height: 9,
+            width: 10,
+            height: 6,
           },
         ],
       },  
